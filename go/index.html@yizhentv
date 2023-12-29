@@ -1,0 +1,1956 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>网站加载中...</title>
+</head>
+<body>
+<script type="b42a18dbb1cf6eb40e7810aa-text/javascript">
+		switch (location.search.substring(1)) {
+			case '1':
+				window.location.href = '1';
+				break;
+			case '1':
+				window.location.href = '1';
+				break;
+			case 'pcmeitu':
+				window.location.href = 'https://pc.meitu.com/';
+				break;
+			case 'aliprice':
+				window.location.href = 'https://www.aliprice.com/information/alibabaCnInformation.html';
+				break;
+			case 'dowsure':
+				window.location.href = 'https://www.dowsure.com/';
+				break;
+			case 'globalalipay':
+				window.location.href = 'https://global.alipay.com/platform/site/ihome';
+				break;
+			case 'globalpay163':
+				window.location.href = 'https://globalpay.163.com/home';
+				break;
+			case 'AppleID 10 号':
+				window.location.href = 'https://aunlock.laogoubi.net/p/db6c27585e70cf40a094709d08bba102';
+				break;
+			case 'AppleID 2号':
+				window.location.href = 'https://aunlock.laogoubi.net/p/fffc8bedfe47b9a5497cf2dad01f2417';
+				break;
+			case 'AppleID 3号':
+				window.location.href = 'https://aunlock.laogoubi.net/p/8b7a56354f3c2d5f9fa224868a1a7870';
+				break;
+			case 'AppleID 4号':
+				window.location.href = 'https://aunlock.laogoubi.net/p/ff9e357fdb82d611d116bc00cf50c9e8';
+				break;
+			case 'AppleID 5号':
+				window.location.href = 'https://aunlock.laogoubi.net/p/574d474d11a52d1aba18a932c3fba72f';
+				break;
+			case 'AppleID 6号':
+				window.location.href = 'https://aunlock.laogoubi.net/p/13ca35c5071e8a9b727c09cf3ad4eecf';
+				break;
+			case 'AppleID 7号':
+				window.location.href = 'https://aunlock.laogoubi.net/p/57e4f04a095b1ebac87108c9b5ede9e2';
+				break;
+			case 'AppleID 8 号':
+				window.location.href = 'https://apple.laogou.cx/p/682dd481d1fab2a8346038d898c9169a';
+				break;
+			case 'AppleID 9号':
+				window.location.href = 'https://apple.laogoubi.net/p/dd440167d0b9fc64949d1502f9700cca';
+				break;
+			case 'AppleID 10 号':
+				window.location.href = 'https://apple.laogoubi.net/p/b5dd3a2f3ecac2fded959edabeec4c78';
+				break;
+			case 'AppleID 11号':
+				window.location.href = 'https://aunlock.laogoubi.net/p/a14924d0ff24acea8ca5f9fa63f27eea';
+				break;
+			case 'AppleID 12号':
+				window.location.href = 'https://free.pingguo.id/share/up9cNlrgjH';
+				break;
+			case 'AppleID 13号':
+				window.location.href = 'https://aunlock.laogoubi.net/p/a814e7339cc7b7e207169aa785bedbcd';
+				break;
+			case 'AppleID 14号':
+				window.location.href = 'https://aunlock.laogoubi.net/p/8d9ab950f20dcde7658af99933c4391a';
+				break;
+			case 'AppleID 15号':
+				window.location.href = 'https://aunlock.laogoubi.net/p/d6f8f239cd011364ddaca4c1aadd4cec';
+				break;
+			case 'AppleID 16号':
+				window.location.href = 'https://aunlock.laogoubi.net/p/95c24f57707d033ffb3515ecc74499fe';
+				break;
+			case 'AppleID 17号':
+				window.location.href = 'https://aunlock.laogoubi.net/p/9443a1c8e22ef52b8b34a2bc69b67267';
+				break;
+			case 'AppleID 18号':
+				window.location.href = 'https://aunlock.laogoubi.net/p/3e202e48d5abf5dcf5a9abe4dc505071';
+				break;
+			case 'AppleID 19号':
+				window.location.href = 'https://aunlock.laogoubi.net/p/e9a5520117029ea4aa2046eafc6c6dd3';
+				break;
+			case 'AppleID 20 号':
+				window.location.href = 'https://apple.laogoubi.net/p/1d125d8fcabc617420ab5a12f44327a4';
+				break;
+			case 'AppleID 21号':
+				window.location.href = 'https://aunlock.laogoubi.net/p/2e7efedf4c34b554c0735fdee0e51e7e';
+				break;
+			case 'AppleID 22号':
+				window.location.href = 'https://aunlock.laogoubi.net/p/9b3fec8289bd0e41c243443a57ba2264';
+				break;
+			case 'AppleID 23号':
+				window.location.href = 'https://aunlock.laogoubi.net/p/9d9a45355a65374e0f072898c7a95296';
+				break;
+			case 'AppleID 24号':
+				window.location.href = 'https://aunlock.laogoubi.net/p/08f00c7ac67844bd713dff6508ad228c';
+				break;
+			case 'iamwawa':
+				window.location.href = 'https://www.iamwawa.cn/';
+				break;
+			case 'CloudFlareWARP':
+				window.location.href = 'https://1.1.1.1/zh-Hans/';
+				break;
+			case 'gcorecom':
+				window.location.href = 'https://www.gcore.com/';
+				break;
+			case 'RAKsmart':
+				window.location.href = 'https://billing.raksmart.com/whmcs/aff.php?aff=6058';
+				break;
+			case 'dynadot':
+				window.location.href = 'http://www.dynadot.com?s9D6D39Q6Zk7i6h ';
+				break;
+			case 'cloudflare':
+				window.location.href = 'https://www.cloudflare.com/';
+				break;
+			case '机场节点':
+				window.location.href = '机场节点';
+				break;
+			case 'ChatGPT':
+				window.location.href = 'ChatGPT';
+				break;
+			case 'MidJourney':
+				window.location.href = 'MidJourney';
+				break;
+			case 'pipiads':
+				window.location.href = 'https://www.pipiads.com/zh';
+				break;
+			case 'pentos':
+				window.location.href = 'https://pentos.co/';
+				break;
+			case 'tikbuddy':
+				window.location.href = 'https://tikbuddy.com/';
+				break;
+			case 'tikstar':
+				window.location.href = 'https://www.tikstar.com/';
+				break;
+			case 'binjie':
+				window.location.href = 'https://dslsth.aitianhu1.top/#/chat/1002';
+				break;
+			case 'aifree':
+				window.location.href = 'https://chatbb.free2gpt.xyz/';
+				break;
+			case 'bamboochat':
+				window.location.href = 'https://chatgpt.bamboochat.cn/';
+				break;
+			case 'a1r':
+				window.location.href = 'https://21.a1r.cc/#/chat/';
+				break;
+			case 'nb8':
+				window.location.href = 'https://chat02.a1r.cc/';
+				break;
+			case 'tinycms':
+				window.location.href = 'https://chat.tinycms.xyz:3002/';
+				break;
+			case 'bus1':
+				window.location.href = 'https://ibot3.bus1.skybyte.me/#/chat/';
+				break;
+			case 'lra':
+				window.location.href = 'https://chatai.lra.cn/#/home/chat';
+				break;
+			case 'pinkfong':
+				window.location.href = 'https://chat.pinkfong.cn/';
+				break;
+			case 'caffcat':
+				window.location.href = 'https://www.caffcat.co/';
+				break;
+			case 'free2gpt':
+				window.location.href = 'https://chatt.free2gpt.xyz/';
+				break;
+			case 'aitianhu':
+				window.location.href = 'https://iy5np.aitianhu.xyz/#/chat/';
+				break;
+			case 'xiami':
+				window.location.href = 'https://h.aianswer.me/';
+				break;
+			case 'hxkj':
+				window.location.href = 'https://ai.hxkj.vip/';
+				break;
+			case 'bltcy':
+				window.location.href = 'https://ai21.gptforlove.com/';
+				break;
+			case 'aifaka':
+				window.location.href = 'https://gpt.aifaka.link/';
+				break;
+			case 'ifasto':
+				window.location.href = 'https://www.aisoftworks.com/chat';
+				break;
+			case 'chat2doc':
+				window.location.href = 'https://chat2doc.cn/';
+				break;
+			case 'gpt01':
+				window.location.href = 'https://chat.gpt-01.com/';
+				break;
+			case 't66':
+				window.location.href = 'https://t66.ltd/#/chat/';
+				break;
+			case 'caffcat':
+				window.location.href = 'https://caffcat.com/';
+				break;
+			case 'coffeecat':
+				window.location.href = 'https://coffeecat.ai/';
+				break;
+			case 'kiask':
+				window.location.href = 'https://chatgpt.kiask.xyz/';
+				break;
+			case 'anzz':
+				window.location.href = 'https://free.anzz.top/zh';
+				break;
+			case 'b88':
+				window.location.href = 'https://1.b88.asia/#/chat/';
+				break;
+			case 'berlin4h':
+				window.location.href = 'https://ai.berlin4h.top/';
+				break;
+			case 'aishort':
+				window.location.href = 'https://www.aishort.top/';
+				break;
+			case '147gpt':
+				window.location.href = 'http://bot.147gpt.com/#/chat/';
+				break;
+			case 'aigpt':
+				window.location.href = 'https://aigpt.life/';
+				break;
+			case 'chatfree':
+				window.location.href = 'https://v.chatfree.cc/';
+				break;
+			case 'midjourney':
+				window.location.href = 'https://www.midjourney.com/home/';
+				break;
+			case 'yigebaidu':
+				window.location.href = 'https://yige.baidu.com/';
+				break;
+			case 'civitai':
+				window.location.href = 'https://civitai.com/';
+				break;
+			case 'nijijourney':
+				window.location.href = 'https://nijijourney.com/zh/';
+				break;
+			case 'nightcafe':
+				window.location.href = 'https://creator.nightcafe.studio/';
+				break;
+			case 'openaiaihh':
+				window.location.href = 'https://openai.com/research/dall-e';
+				break;
+			case 'huggingface':
+				window.location.href = 'https://huggingface.co/';
+				break;
+			case 'tiamat':
+				window.location.href = 'https://www.tiamat.world/';
+				break;
+			case 'dreamup':
+				window.location.href = 'https://www.dreamup.com/';
+				break;
+			case 'design':
+				window.location.href = 'https://d.design/';
+				break;
+			case 'lexica':
+				window.location.href = 'https://lexica.art/';
+				break;
+			case 'scribblediffusion':
+				window.location.href = 'https://scribblediffusion.com';
+				break;
+			case 'artbreeder':
+				window.location.href = 'https://www.artbreeder.com/browse';
+				break;
+			case 'leonardo':
+				window.location.href = 'https://leonardo.ai/';
+				break;
+			case 'wujieai':
+				window.location.href = 'https://www.wujieai.com/';
+				break;
+			case 'adobeaihh':
+				window.location.href = 'https://firefly.adobe.com/';
+				break;
+			case 'clipdrop':
+				window.location.href = 'https://clipdrop.co/stable-diffusion';
+				break;
+			case 'nvidia':
+				window.location.href = 'https://www.nvidia.cn/studio/canvas/';
+				break;
+			case 'bingaihh':
+				window.location.href = 'https://cn.bing.com/create';
+				break;
+			case 'illostration':
+				window.location.href = 'https://www.illostration.com/';
+				break;
+			case 'pixso':
+				window.location.href = 'https://pixso.cn/';
+				break;
+			case 'aliyunaihh':
+				window.location.href = 'https://wanxiang.aliyun.com/';
+				break;
+			case 'ibihun':
+				window.location.href = 'https://ibihun.com/';
+				break;
+			case 'gsgj':
+				window.location.href = 'https://e.gsgj.top/';
+				break;
+			case 'liandanjia':
+				window.location.href = 'https://www.liandanjia.com/';
+				break;
+			case 'gpai':
+				window.location.href = 'https://aigc.gpai.cc/draw';
+				break;
+			case 'wittyai':
+				window.location.href = 'https://inspire.witty-ai.io/';
+				break;
+			case 'xingzheai':
+				window.location.href = 'https://tu.xingzheai.cn/';
+				break;
+			case '2gpt':
+				window.location.href = 'https://2gpt.ai/base/home/';
+				break;
+			case 'acgnai':
+				window.location.href = 'https://www.acgnai.com/';
+				break;
+			case 'haiyiai':
+				window.location.href = 'https://www.haiyiai.com/home';
+				break;
+			case 'clipdrop':
+				window.location.href = 'https://clipdrop.co/stable-doodle';
+				break;
+			case 'mosesai':
+				window.location.href = 'https://aiart.mosesai.net/#/square';
+				break;
+			case 'jsdesign':
+				window.location.href = 'https://js.design/ai-muses/gallery?source=aigc';
+				break;
+			case 'whee':
+				window.location.href = 'https://www.whee.com/';
+				break;
+			case 'aigcfull':
+				window.location.href = 'https://aigcfull.com/';
+				break;
+			case 'popfashion':
+				window.location.href = 'https://www.pop-fashion.com/aidraw/';
+				break;
+			case 'yilan':
+				window.location.href = 'https://yyb.yilan.tv/';
+				break;
+			case 'sohuaihh':
+				window.location.href = 'https://ai.sohu.com/';
+				break;
+			case 'acgnai':
+				window.location.href = 'https://ai.wozhiyi.com/home/drawing/';
+				break;
+			case 'foxai':
+				window.location.href = 'https://foxai.club/';
+				break;
+			case 'kooki':
+				window.location.href = 'https://kooki.com.cn/';
+				break;
+			case 'mosesai':
+				window.location.href = 'https://mj.aigcwrite.com/individual/community.html';
+				break;
+			case 'nolibox':
+				window.location.href = 'https://creator.nolibox.com/';
+				break;
+			case '360aihh':
+				window.location.href = 'https://tu.360.cn/';
+				break;
+			case 'playgroundai':
+				window.location.href = 'https://playgroundai.com/';
+				break;
+			case 'wondershare':
+				window.location.href = 'https://aigc.wondershare.cn/';
+				break;
+			case 'printidea':
+				window.location.href = 'https://printidea.art/';
+				break;
+			case 'photokit':
+				window.location.href = 'https://photokit.com/?lang=zh';
+				break;
+			case 'soaitpcl':
+				window.location.href = 'https://chacha.so.com/tools/enlarge?srcg=remove&src=remove';
+				break;
+			case 'logosc':
+				window.location.href = 'https://img.logosc.cn/';
+				break;
+			case 'boolv':
+				window.location.href = 'https://toolkit.boolv.tech/background-remover';
+				break;
+			case 'hama':
+				window.location.href = 'https://www.hama.app/';
+				break;
+			case 'picup':
+				window.location.href = 'https://www.picup.shop/';
+				break;
+			case 'remove':
+				window.location.href = 'https://www.remove.bg/';
+				break;
+			case 'tencentaitpcl':
+				window.location.href = 'https://arc.tencent.com/zh/ai-demos/faceRestoration';
+				break;
+			case 'petalica':
+				window.location.href = 'https://petalica.com/';
+				break;
+			case 'geometrize':
+				window.location.href = 'https://www.geometrize.co.uk/';
+				break;
+			case 'snapedit':
+				window.location.href = 'https://snapedit.app/';
+				break;
+			case 'bigjpg':
+				window.location.href = 'https://bigjpg.com/';
+				break;
+			case 'upscayl':
+				window.location.href = 'https://www.upscayl.org/';
+				break;
+			case 'waifu2x':
+				window.location.href = 'https://waifu2x.udp.jp/';
+				break;
+			case 'baiduaitpcl':
+				window.location.href = 'https://ai.baidu.com/tech/imageprocess/colourize';
+				break;
+			case 'imagecolorizer':
+				window.location.href = 'https://imagecolorizer.com/zh-tw';
+				break;
+			case 'objectremover':
+				window.location.href = 'https://objectremover.com/';
+				break;
+			case 'cleanup':
+				window.location.href = 'https://cleanup.pictures/';
+				break;
+			case 'genmo':
+				window.location.href = 'https://www.genmo.ai/';
+				break;
+			case 'uberduck':
+				window.location.href = 'https://uberduck.ai/';
+				break;
+			case 'magickimg':
+				window.location.href = 'https://magickimg.com/';
+				break;
+			case 'magicstudio':
+				window.location.href = 'https://magicstudio.com/zh/';
+				break;
+			case 'getimg':
+				window.location.href = 'https://getimg.ai/';
+				break;
+			case 'imageenhan':
+				window.location.href = 'https://www.imageenhan.com/';
+				break;
+			case 'audo':
+				window.location.href = 'https://audo.ai/';
+				break;
+			case 'unscreen':
+				window.location.href = 'https://www.unscreen.com/';
+				break;
+			case 'did':
+				window.location.href = 'https://www.d-id.com/';
+				break;
+			case 'ailabtools':
+				window.location.href = 'https://www.ailabtools.com/zh-cn';
+				break;
+			case 'zenvideo':
+				window.location.href = 'https://zenvideo.qq.com/';
+				break;
+			case 'photoroom':
+				window.location.href = 'https://www.photoroom.com/';
+				break;
+			case 'clipchamp':
+				window.location.href = 'https://clipchamp.com/zh-hans/';
+				break;
+			case 'fliki':
+				window.location.href = 'https://fliki.ai/';
+				break;
+			case 'soundraw':
+				window.location.href = 'https://soundraw.io/';
+				break;
+			case 'playht':
+				window.location.href = 'https://play.ht/';
+				break;
+			case 'capcut':
+				window.location.href = 'https://www.capcut.cn/';
+				break;
+			case 'mubert':
+				window.location.href = 'https://mubert.com/';
+				break;
+			case 'beatbot':
+				window.location.href = 'https://beatbot.fm/';
+				break;
+			case 'jimmylv':
+				window.location.href = 'https://b.jimmylv.cn/';
+				break;
+			case 'movio':
+				window.location.href = 'https://www.movio.la/';
+				break;
+			case 'wonderdynamics':
+				window.location.href = 'https://wonderdynamics.com/';
+				break;
+			case 'tianyin':
+				window.location.href = 'https://tianyin.163.com/';
+				break;
+			case 'runwayml':
+				window.location.href = 'https://runwayml.com/';
+				break;
+			case 'yizhentv':
+				window.location.href = 'https://aigc.yizhentv.com/';
+				break;
+			case 'stability':
+				window.location.href = 'https://stability.ai/blog/stable-animation-sdk';
+				break;
+			case 'colossyan':
+				window.location.href = 'https://www.colossyan.com/';
+				break;
+			case 'rephrase':
+				window.location.href = 'https://www.rephrase.ai/';
+				break;
+			case 'synthesia':
+				window.location.href = 'https://www.synthesia.io/';
+				break;
+			case 'metademolab':
+				window.location.href = 'https://sketch.metademolab.com/';
+				break;
+			case 'heygen':
+				window.location.href = 'https://www.heygen.com/';
+				break;
+			case 'hourone':
+				window.location.href = 'https://hourone.ai/';
+				break;
+			case 'guiji':
+				window.location.href = 'https://www.guiji.ai/';
+				break;
+			case 'jollytoday':
+				window.location.href = 'https://jollytoday.com/index/cn';
+				break;
+			case 'opus':
+				window.location.href = 'https://www.opus.pro/';
+				break;
+			case 'wonderdynamics':
+				window.location.href = 'https://wonderdynamics.com/';
+				break;
+			case 'cascadeur':
+				window.location.href = 'https://cascadeur.com/';
+				break;
+			case 'getmunch':
+				window.location.href = 'https://www.getmunch.com/';
+				break;
+			case 'tavus':
+				window.location.href = 'https://www.tavus.io/';
+				break;
+			case 'kedaibiao':
+				window.location.href = 'https://www.kedaibiao.pro/welcome';
+				break;
+			case 'zimujiang':
+				window.location.href = 'https://www.zimujiang.com/';
+				break;
+			case '1c7':
+				window.location.href = 'https://tern.1c7.me/';
+				break;
+			case 'etsow':
+				window.location.href = 'https://www.etsow.com/';
+				break;
+			case 'kuaijianji':
+				window.location.href = 'https://www.kuaijianji.com/';
+				break;
+			case 'jimmylv':
+				window.location.href = 'https://b.jimmylv.cn/';
+				break;
+			case 'baiduaisp':
+				window.location.href = 'https://aigc.baidu.com/make';
+				break;
+			case 'warpengine':
+				window.location.href = 'https://www.warpengine.cc/';
+				break;
+			case 'virbowondershare':
+				window.location.href = 'https://virbo.wondershare.cn/';
+				break;
+			case 'pika':
+				window.location.href = 'https://www.pika.art/';
+				break;
+			case 'yiqijian':
+				window.location.href = 'https://www.yiqijian.com/';
+				break;
+			case 'visla':
+				window.location.href = 'https://www.visla.us/ai-video-generator';
+				break;
+			case 'wowto':
+				window.location.href = 'https://wowto.ai/';
+				break;
+			case 'kaiber':
+				window.location.href = 'https://kaiber.ai/';
+				break;
+			case 'deepbrain':
+				window.location.href = 'https://www.deepbrain.io/aistudios';
+				break;
+			case 'quinv':
+				window.location.href = 'https://www.quinv.io/ai';
+				break;
+			case 'laihua':
+				window.location.href = 'https://www.laihua.com/';
+				break;
+			case 'bgrem':
+				window.location.href = 'https://bgrem.ai/zh/remove-video-bg/';
+				break;
+			case 'fakeyou':
+				window.location.href = 'https://fakeyou.com/';
+				break;
+			case 'kreadoai':
+				window.location.href = 'https://www.kreadoai.com/';
+				break;
+			case 'dreamavatar':
+				window.location.href = 'https://www.dreamavatar.com/';
+				break;
+			case 'gstudios':
+				window.location.href = 'https://www.gstudios.com.cn/';
+				break;
+			case 'moyin':
+				window.location.href = 'https://www.moyin.com/';
+				break;
+			case 'databaker':
+				window.location.href = 'https://yuedu.data-baker.com/';
+				break;
+			case 'filme':
+				window.location.href = 'https://filme.imyfone.com/voice-recorder/';
+				break;
+			case 'fineshare':
+				window.location.href = 'https://www.fineshare.com/finevoice/index-new.html';
+				break;
+			case 'audyo':
+				window.location.href = 'https://www.audyo.ai/';
+				break;
+			case 'spakfly':
+				window.location.href = 'https://spakfly.com/home';
+				break;
+			case 'beepbooply':
+				window.location.href = 'https://beepbooply.com/';
+				break;
+			case 'blogcast':
+				window.location.href = 'https://blogcast.host/';
+				break;
+			case 'narrationbox':
+				window.location.href = 'https://narrationbox.com/';
+				break;
+			case 'VRCWizard':
+				window.location.href = 'https://github.com/VRCWizard/TTS-Voice-Wizard';
+				break;
+			case 'speecheasyapp':
+				window.location.href = 'https://www.speecheasyapp.com/';
+				break;
+			case 'elevenlabs':
+				window.location.href = 'https://elevenlabs.io/';
+				break;
+			case 'lovo':
+				window.location.href = 'https://lovo.ai/';
+				break;
+			case 'speechmicrosoft':
+				window.location.href = 'https://speech.microsoft.com/portal';
+				break;
+			case 'podcastadobe':
+				window.location.href = 'https://podcast.adobe.com/';
+				break;
+			case 'bgmcat':
+				window.location.href = 'https://bgmcat.com/home';
+				break;
+			case 'serocs':
+				window.location.href = 'https://www.serocs.cn/';
+				break;
+			case 'tianyinmusic163':
+				window.location.href = 'https://tianyin.music.163.com/#/';
+				break;
+			case 'TMEStudio':
+				window.location.href = 'https://y.qq.com/tme_studio/index.html';
+				break;
+			case 'tuanziai':
+				window.location.href = 'https://tuanziai.com/';
+				break;
+			case 'tingwualiyun':
+				window.location.href = 'https://tingwu.aliyun.com/?refer=17yongai.com';
+				break;
+			case 'withgoogle':
+				window.location.href = 'https://aitestkitchen.withgoogle.com/experiments/music-lm';
+				break;
+			case 'uberduck':
+				window.location.href = 'https://www.uberduck.ai/';
+				break;
+			case 'shengkaaisogou':
+				window.location.href = 'https://shengka.ai.sogou.com/';
+				break;
+			case 'huggingface':
+				window.location.href = 'https://huggingface.co/spaces/OneAfterlife/MubertTTM';
+				break;
+			case 'ttsmaker':
+				window.location.href = 'https://ttsmaker.com/';
+				break;
+			case 'getgetai':
+				window.location.href = 'https://getgetai.com/workstation';
+				break;
+			case 'notion':
+				window.location.href = 'https://www.notion.so/product/ai';
+				break;
+			case 'writesonic':
+				window.location.href = 'https://writesonic.com/';
+				break;
+			case 'jasper':
+				window.location.href = 'https://www.jasper.ai/';
+				break;
+			case 'copyai':
+				window.location.href = 'https://www.copy.ai/';
+				break;
+			case 'editgpt':
+				window.location.href = 'https://www.editgpt.app/';
+				break;
+			case 'wantquotes':
+				window.location.href = 'https://wantquotes.net/';
+				break;
+			case 'xiezuocat':
+				window.location.href = 'https://www.xiezuocat.com/';
+				break;
+			case 'aigaixie':
+				window.location.href = 'https://www.aigaixie.com/';
+				break;
+			case 'quillbot':
+				window.location.href = 'https://quillbot.com/';
+				break;
+			case 'chuangyitaobao':
+				window.location.href = 'https://chuangyi.taobao.com/pages/aiCopy';
+				break;
+			case 'rytr':
+				window.location.href = 'https://rytr.me/';
+				break;
+			case 'writingo':
+				window.location.href = 'https://www.writingo.net/home';
+				break;
+			case 'yybyilan':
+				window.location.href = 'https://yyb.yilan.tv/ai/scenario';
+				break;
+			case 'yiniancloudbaidu':
+				window.location.href = 'https://yinian.cloud.baidu.com/creativity/index/';
+				break;
+			case 'jijianzn':
+				window.location.href = 'https://www.jijianzn.com/';
+				break;
+			case 'youaihotaigc':
+				window.location.href = 'https://youai.hotaigc.cn/';
+				break;
+			case 'brainfoxai':
+				window.location.href = 'https://brain.foxai.club/index';
+				break;
+			case 'xiaomendao':
+				window.location.href = 'https://www.xiaomendao.cn/';
+				break;
+			case 'wozhiyi':
+				window.location.href = 'https://ai.wozhiyi.com/';
+				break;
+			case 'aixx':
+				window.location.href = 'https://www.aixx.ai/';
+				break;
+			case 'getgetai':
+				window.location.href = 'https://www.getgetai.com/home';
+				break;
+			case 'aigcwrite':
+				window.location.href = 'https://www.aigcwrite.com/';
+				break;
+			case 'ibiling':
+				window.location.href = 'https://ibiling.cn/';
+				break;
+			case 'xiaoyuxiezuo':
+				window.location.href = 'https://www.xiaoyuxiezuo.com/';
+				break;
+			case 'sitesmo':
+				window.location.href = 'https://www.sitesmo.com/';
+				break;
+			case 'aiwritingpal':
+				window.location.href = 'https://aiwritingpal.com/';
+				break;
+			case 'zjxfyun':
+				window.location.href = 'https://zj.xfyun.cn/exam/text';
+				break;
+			case 'aispacelab':
+				window.location.href = 'https://www.aispacelab.cn/';
+				break;
+			case 'effiditqq':
+				window.location.href = 'https://effidit.qq.com/';
+				break;
+			case 'mtutorengkoo':
+				window.location.href = 'https://aimwriting.mtutor.engkoo.com/';
+				break;
+			case 'giiso':
+				window.location.href = 'https://www.giiso.com/';
+				break;
+			case 'ifcaiyunai':
+				window.location.href = 'https://if.caiyunai.com/dashboard/novels';
+				break;
+			case 'welmweixinqq':
+				window.location.href = 'https://welm.weixin.qq.com/docs/playground/';
+				break;
+			case 'kezhan365':
+				window.location.href = 'https://ai.kezhan365.com/';
+				break;
+			case 'wuzcomcn':
+				window.location.href = 'https://www.wuz.com.cn/';
+				break;
+			case 'yuntianyi':
+				window.location.href = 'https://writing.yuntianyi.com/';
+				break;
+			case 'guangsuxie':
+				window.location.href = 'https://www.guangsuxie.com/static/college-write-web/index';
+				break;
+			case 'botsmart':
+				window.location.href = 'https://botsmart.net/';
+				break;
+			case 'mypitaya':
+				window.location.href = 'https://web.mypitaya.com/login';
+				break;
+			case 'qianyanlab':
+				window.location.href = 'https://www.qianyanlab.com/';
+				break;
+			case 'aitag':
+				window.location.href = 'https://aitag.top/';
+				break;
+			case 'aishort':
+				window.location.href = 'https://www.aishort.top/';
+				break;
+			case 'Midjourney':
+				window.location.href = 'https://docs.midjourney.com/docs/prompts';
+				break;
+			case 'promptfolder':
+				window.location.href = 'https://promptfolder.com/midjourney-prompt-helper/';
+				break;
+			case 'promptingguideai':
+				window.location.href = 'https://www.promptingguide.ai/zh?ref=www.ainav.cn';
+				break;
+			case 'learningprompt':
+				window.location.href = 'https://learningprompt.wiki/';
+				break;
+			case 'ai016':
+				window.location.href = 'https://www.ai016.com/';
+				break;
+			case 'prompthero':
+				window.location.href = 'https://prompthero.com/';
+				break;
+			case 'prompthunt':
+				window.location.href = 'https://www.prompthunt.com/explore';
+				break;
+			case 'promptbase':
+				window.location.href = 'https://promptbase.com/';
+				break;
+			case 'promptomania':
+				window.location.href = 'https://promptomania.com/';
+				break;
+			case 'clickprompt':
+				window.location.href = 'https://www.clickprompt.org/zh-CN/';
+				break;
+			case 'kalos':
+				window.location.href = 'https://lib.kalos.art/';
+				break;
+			case 'saxifrage':
+				window.location.href = 'https://tools.saxifrage.xyz/prompt';
+				break;
+			case 'publicprompts':
+				window.location.href = 'https://publicprompts.art/';
+				break;
+			case 'replicate':
+				window.location.href = 'https://replicate.com/pharmapsychotic/clip-interrogator';
+				break;
+			case 'ordinarypeopleprompts':
+				window.location.href = 'https://www.ordinarypeopleprompts.com/';
+				break;
+			case 'aicodeconvert':
+				window.location.href = 'https://aicodeconvert.com/';
+				break;
+			case 'difyai':
+				window.location.href = 'https://dify.ai/';
+				break;
+			case 'chatbox':
+				window.location.href = 'https://www.chatbox.cool/';
+				break;
+			case 'blazesql':
+				window.location.href = 'https://www.blazesql.com/';
+				break;
+			case 'regexai':
+				window.location.href = 'https://regex.ai/';
+				break;
+			case 'featurescopilot':
+				window.location.href = 'https://github.com/features/copilot/';
+				break;
+			case 'codeium':
+				window.location.href = 'https://codeium.com/';
+				break;
+			case 'airops':
+				window.location.href = 'https://www.airops.com/';
+				break;
+			case 'sunnerChatALL':
+				window.location.href = 'https://github.com/sunner/ChatALL/releases';
+				break;
+			case 'sqlkiller':
+				window.location.href = 'https://www.sqlkiller.com/';
+				break;
+			case 'learningprompt':
+				window.location.href = 'https://learningprompt.wiki/';
+				break;
+			case 'awsamazon':
+				window.location.href = 'https://aws.amazon.com/cn/codewhisperer/';
+				break;
+			case 'codegeex':
+				window.location.href = 'https://codegeex.cn/';
+				break;
+			case 'comatebaidu':
+				window.location.href = 'https://comate.baidu.com/';
+				break;
+			case 'xfyun':
+				window.location.href = 'https://iflycode.xfyun.cn/';
+				break;
+			case 'codeartssnap':
+				window.location.href = 'https://www.huaweicloud.com/lab/paas/codeartssnap.html';
+				break;
+			case 'jsdesignaicreate':
+				window.location.href = 'https://js.design/ai/create';
+				break;
+			case 'cursorso':
+				window.location.href = 'https://www.cursor.so/';
+				break;
+			case 'decopreviewjd':
+				window.location.href = 'https://deco-preview.jd.com/?ref=www.ainav.cn';
+				break;
+			case 'imgcook':
+				window.location.href = 'https://www.imgcook.com/';
+				break;
+			case 'tiktok':
+				window.location.href = 'https://www.tiktok.com/';
+				break;
+			case 'tiktokph':
+				window.location.href = 'https://seller-ph.tiktok.com/account/login';
+				break;
+			case 'shoptiktok':
+				window.location.href = 'https://shop.tiktok.com/streamer/welcome';
+				break;
+			case 'tiktoknotfound':
+				window.location.href = 'https://www.tiktok.com/hk/notfound';
+				break;
+			case 'partnertiktokshop':
+				window.location.href = 'https://partner.tiktokshop.com/account/login';
+				break;
+			case 'backstagetiktok':
+				window.location.href = 'https://live-backstage.tiktok.com/';
+				break;
+			case 'sellertiktokglobalshop':
+				window.location.href = 'https://seller.tiktokglobalshop.com/account/login';
+				break;
+			case 'tiktokus':
+				window.location.href = 'https://seller-us-accounts.tiktok.com/account/login';
+				break;
+			case 'tiktokmy':
+				window.location.href = 'https://seller-my.tiktok.com/account/login';
+				break;
+			case 'tiktokth':
+				window.location.href = 'https://seller-th.tiktok.com/account/login';
+				break;
+			case 'tiktokuk':
+				window.location.href = 'https://seller-uk-accounts.tiktok.com/account/login';
+				break;
+			case 'tiktokvn':
+				window.location.href = 'https://seller-vn.tiktok.com/account/login';
+				break;
+			case 'tiktoksg':
+				window.location.href = 'https://seller-sg.tiktok.com/account/login';
+				break;
+			case 'tiktokid':
+				window.location.href = 'https://seller-id.tiktok.com/account/register';
+				break;
+			case 'tiktokglobalshopuniversity':
+				window.location.href = 'https://seller.tiktokglobalshop.com/university/home?identity=1';
+				break;
+			case 'newsroomtiktok':
+				window.location.href = 'https://newsroom.tiktok.com/en-us/';
+				break;
+			case 'businesstiktok':
+				window.location.href = 'https://business.tiktok.com/';
+				break;
+			case 'creatormarketplace':
+				window.location.href = 'https://creatormarketplace.tiktok.com/';
+				break;
+			case 'tiktoksellerid':
+				window.location.href = 'https://seller-id.tiktok.com/university/home?tab=policy_center&identity=1&role=seller';
+				break;
+			case 'creatormarketplace':
+				window.location.href = 'https://creatormarketplace.tiktok.com/';
+				break;
+			case 'tiktokforgood':
+				window.location.href = 'https://www.tiktok.com/forgood';
+				break;
+			case 'developerstiktok':
+				window.location.href = 'https://developers.tiktok.com/';
+				break;
+			case 'tiktokhashtags':
+				window.location.href = 'https://tiktokhashtags.com/';
+				break;
+			case 'didadog':
+				window.location.href = 'https://didadog.com/';
+				break;
+			case 'cifnewstiktok':
+				window.location.href = 'https://www.cifnews.com/tiktok';
+				break;
+			case '36krtiktok':
+				window.location.href = 'https://www.36kr.com/search/articles/tiktok';
+				break;
+			case 'aliexpress':
+				window.location.href = 'https://www.aliexpress.com/';
+				break;
+			case 'dhgate':
+				window.location.href = 'https://www.dhgate.com/';
+				break;
+			case 'shopee':
+				window.location.href = 'https://shopee.cn/';
+				break;
+			case 'lazada':
+				window.location.href = 'https://www.lazada.com/en/';
+				break;
+			case 'groupon':
+				window.location.href = 'https://www.groupon.com/';
+				break;
+			case 'alibaba':
+				window.location.href = 'https://www.alibaba.com/';
+				break;
+			case 'wish':
+				window.location.href = 'https://www.wish.com/';
+				break;
+			case 'walmart':
+				window.location.href = 'https://www.walmart.com/';
+				break;
+			case 'ebay':
+				window.location.href = 'https://www.ebay.com/';
+				break;
+			case 'amazon':
+				window.location.href = 'https://www.amazon.com/';
+				break;
+			case 'newegg':
+				window.location.href = 'https://www.newegg.com/';
+				break;
+			case 'flipkart':
+				window.location.href = 'https://www.flipkart.com/';
+				break;
+			case 'tokopedia':
+				window.location.href = 'https://www.tokopedia.com/';
+				break;
+			case 'gmarket':
+				window.location.href = 'https://www.gmarket.co.kr/';
+				break;
+			case 'paypal':
+				window.location.href = 'https://www.paypal.com/hk/home';
+				break;
+			case 'payoneer':
+				window.location.href = 'https://www.payoneer.com/zh-hant/';
+				break;
+			case 'pingpongx':
+				window.location.href = 'https://www.pingpongx.com/';
+				break;
+			case 'photonpay':
+				window.location.href = 'https://www.photonpay.com/';
+				break;
+			case 'lianlianpay':
+				window.location.href = 'https://global.lianlianpay.com/';
+				break;
+			case 'oceanpayment':
+				window.location.href = 'https://www.oceanpayment.com/cn/';
+				break;
+			case 'worldfirst':
+				window.location.href = 'https://www.worldfirst.com.cn/cn/';
+				break;
+			case 'airwallex':
+				window.location.href = 'https://www.airwallex.com/cn';
+				break;
+			case 'stripe':
+				window.location.href = 'https://stripe.com/zh-cn-hk';
+				break;
+			case 'wmtransfer':
+				window.location.href = 'https://www.wmtransfer.com/';
+				break;
+			case 'transfergo':
+				window.location.href = 'https://www.transfergo.com/';
+				break;
+			case 'moneygram':
+				window.location.href = 'https://www.moneygram.com/mgo/us/en/';
+				break;
+			case 'instarem':
+				window.location.href = 'https://www.instarem.com/en-hk/';
+				break;
+			case 'xecom':
+				window.location.href = 'https://www.xe.com/hifx/';
+				break;
+			case 'remitly':
+				window.location.href = 'https://www.remitly.com/us/zh/hong-kong';
+				break;
+			case 'currencyfair':
+				window.location.href = 'https://www.currencyfair.com/hk/';
+				break;
+			case 'ofxcom':
+				window.location.href = 'https://www.ofx.com/en-us/';
+				break;
+			case 'westernunion':
+				window.location.href = 'https://www.westernunion.com/us/en/home.html';
+				break;
+			case 'xoomcom':
+				window.location.href = 'https://www.xoom.com/';
+				break;
+			case 'worldremit':
+				window.location.href = 'https://www.worldremit.com/en/';
+				break;
+			case 'wisecom':
+				window.location.href = 'https://wise.com/';
+				break;
+			case 'global1688':
+				window.location.href = 'https://global.1688.com/#/home';
+				break;
+			case 'madeinchina':
+				window.location.href = 'https://cn.made-in-china.com/';
+				break;
+			case 'hc360':
+				window.location.href = 'https://www.hc360.com/';
+				break;
+			case 'yiwugo':
+				window.location.href = 'https://www.yiwugo.com/';
+				break;
+			case 'globalsources':
+				window.location.href = 'https://www.globalsources.com/';
+				break;
+			case 'voicegoogle':
+				window.location.href = 'https://voice.google.com/';
+				break;
+			case 'onlinesim':
+				window.location.href = 'https://onlinesim.io/zh';
+				break;
+			case 'smspva':
+				window.location.href = 'https://www.smspva.com/';
+				break;
+			case 'yunduanxin':
+				window.location.href = 'https://yunduanxin.net/';
+				break;
+			case 'smsprocn':
+				window.location.href = 'https://sms-pro.cn/';
+				break;
+			case 'lothelper':
+				window.location.href = 'https://www.lothelper.com/cn';
+				break;
+			case 'rvsocom':
+				window.location.href = 'https://rvso.com/';
+				break;
+			case 'smsmancom':
+				window.location.href = 'https://sms-man.com/cn';
+				break;
+			case 'cheapsms':
+				window.location.href = 'https://cheapsms.ru/cn';
+				break;
+			case '5simnet':
+				window.location.href = 'https://5sim.net/zh';
+				break;
+			case 'getsmsonline':
+				window.location.href = 'https://getsms.online/en/';
+				break;
+			case 'phonenumber':
+				window.location.href = 'https://us-phone-number.com/';
+				break;
+			case 'smsleg':
+				window.location.href = 'https://smsleg.com/';
+				break;
+			case 'smsactivate':
+				window.location.href = 'https://sms-activate.org/?ref=1738159';
+				break;
+			case '21s2u':
+				window.location.href = 'https://1s2u.com/';
+				break;
+			case 'Receivesmsonline':
+				window.location.href = 'http://receive-sms-online.info/';
+				break;
+			case '24mailchacuo':
+				window.location.href = 'http://24mail.chacuo.net/';
+				break;
+			case '2snapmail':
+				window.location.href = 'https://www.snapmail.cc/#/addEmailBox';
+				break;
+			case 'cuiqiu':
+				window.location.href = 'https://mail.cuiqiu.com/';
+				break;
+			case 'mailcx':
+				window.location.href = 'https://mail.cx/zh/';
+				break;
+			case '10minutemail':
+				window.location.href = 'https://10minutemail.net/';
+				break;
+			case 'inboxkitten':
+				window.location.href = 'https://inboxkitten.com/';
+				break;
+			case 'yopmail':
+				window.location.href = 'https://yopmail.com/zh/';
+				break;
+			case 'inboxes':
+				window.location.href = 'https://inboxes.com/';
+				break;
+			case 'tempail':
+				window.location.href = 'https://tempail.com/';
+				break;
+			case 'guerrillamail':
+				window.location.href = 'https://www.guerrillamail.com/';
+				break;
+			case 'crazymailing':
+				window.location.href = 'https://www.crazymailing.com/';
+				break;
+			case 'fakenamegenerator':
+				window.location.href = 'https://www.fakenamegenerator.com/';
+				break;
+			case 'instausername':
+				window.location.href = 'https://instausername.com/';
+				break;
+			case 'haoweichi':
+				window.location.href = 'http://www.haoweichi.com/';
+				break;
+			case 'namsogen':
+				window.location.href = 'https://namso-gen.com/';
+				break;
+			case 'generated':
+				window.location.href = 'https://generated.photos/';
+				break;
+			case 'meiguodizhi':
+				window.location.href = 'https://www.meiguodizhi.com/';
+				break;
+			case 'facebook':
+				window.location.href = 'https://www.facebook.com/';
+				break;
+			case 'instagram':
+				window.location.href = 'https://www.instagram.com/';
+				break;
+			case 'youtube':
+				window.location.href = 'https://www.youtube.com/';
+				break;
+			case 'tiktokcom':
+				window.location.href = 'https://www.tiktok.com/';
+				break;
+			case 'whatsapp':
+				window.location.href = 'https://www.whatsapp.com/';
+				break;
+			case 'lineme':
+				window.location.href = 'https://line.me/en/';
+				break;
+			case 'twitter':
+				window.location.href = 'https://twitter.com/';
+				break;
+			case 'telegram':
+				window.location.href = 'https://telegram.org/';
+				break;
+			case 'snapchat':
+				window.location.href = 'https://www.snapchat.com/';
+				break;
+			case 'Skype':
+				window.location.href = 'https://www.skype.com/';
+				break;
+			case 'linkedin':
+				window.location.href = 'https://www.linkedin.com/';
+				break;
+			case 'pinterest':
+				window.location.href = 'https://www.pinterest.com/';
+				break;
+			case 'tumblr':
+				window.location.href = 'https://www.tumblr.com/';
+				break;
+			case 'myspace':
+				window.location.href = 'https://myspace.com/';
+				break;
+			case 'redditcom':
+				window.location.href = 'https://www.reddit.com/';
+				break;
+			case 'vkcom':
+				window.location.href = 'https://vk.com/';
+				break;
+			case 'quora':
+				window.location.href = 'https://www.quora.com/';
+				break;
+			case 'kakaocorp':
+				window.location.href = 'https://www.kakaocorp.com/page/';
+				break;
+			case 'adsgoogle':
+				window.location.href = 'https://ads.google.com/intl/zh_CN/home/';
+				break;
+			case 'adsensegoogle':
+				window.location.href = 'https://adsense.google.com/start/';
+				break;
+			case 'analyticsgoogle':
+				window.location.href = 'https://analytics.google.com/analytics';
+				break;
+			case 'pagespeedweb':
+				window.location.href = 'https://pagespeed.web.dev/';
+				break;
+			case 'googlemobilefriendly':
+				window.location.href = 'https://search.google.com/test/mobile-friendly?hl=zh-CN';
+				break;
+			case 'trendsgoogle':
+				window.location.href = 'https://trends.google.com/trends/';
+				break;
+			case 'cloudgoogle':
+				window.location.href = 'https://cloud.google.com/';
+				break;
+			case 'googledrive':
+				window.location.href = 'https://www.google.com/intl/zh-CN/drive/';
+				break;
+			case 'developersgoogle':
+				window.location.href = 'https://developers.google.com/search/help?hl=zh-cn';
+				break;
+			case 'chromegoogle':
+				window.location.href = 'https://chrome.google.com/webstore/category/extensions?hl=zh-CN';
+				break;
+			case 'mailgoogle':
+				window.location.href = 'https://mail.google.com/';
+				break;
+			case 'googlemarketfinder':
+				window.location.href = 'https://ads.google.cn/marketfinder/';
+				break;
+			case 'aboutgoogle':
+				window.location.href = 'https://about.google/intl/zh-CN/products/';
+				break;
+			case 'googlemaps':
+				window.location.href = 'https://www.google.com/maps';
+				break;
+			case 'appsevozi':
+				window.location.href = 'https://apps.evozi.com/apk-downloader/';
+				break;
+			case 'translategoogle':
+				window.location.href = 'https://translate.google.com/';
+				break;
+			case 'answerthepublic':
+				window.location.href = 'https://answerthepublic.com/';
+				break;
+			case 'wordstream':
+				window.location.href = 'https://www.wordstream.com/keywords';
+				break;
+			case 'keywordtoolio':
+				window.location.href = 'https://keywordtool.io/';
+				break;
+			case 'lsigraph':
+				window.location.href = 'https://lsigraph.com/';
+				break;
+			case 'mobilemoxie':
+				window.location.href = 'https://mobilemoxie.com/tools/mobile-serp-test/';
+				break;
+			case 'advancedwebranking':
+				window.location.href = 'https://www.advancedwebranking.com/';
+				break;
+			case 'seedkeywords':
+				window.location.href = 'https://www.seedkeywords.com/';
+				break;
+			case 'longtailpro':
+				window.location.href = 'https://longtailpro.com/';
+				break;
+			case 'neilpatel':
+				window.location.href = 'https://neilpatel.com/ubersuggest/';
+				break;
+			case 'smallseotools':
+				window.location.href = 'https://smallseotools.com/';
+				break;
+			case 'googlesearchconsoleabout':
+				window.location.href = 'https://search.google.com/search-console/about';
+				break;
+			case 'semrush':
+				window.location.href = 'https://www.semrush.com/';
+				break;
+			case 'ahrefs':
+				window.location.href = 'https://ahrefs.com/';
+				break;
+			case 'mozcom':
+				window.location.href = 'https://moz.com/';
+				break;
+			case 'Similarsites':
+				window.location.href = 'https://www.similarsites.com/';
+				break;
+			case 'builtwith':
+				window.location.href = 'https://builtwith.com/';
+				break;
+			case 'majestic':
+				window.location.href = 'https://zh.majestic.com/';
+				break;
+			case 'socialcrawlytics':
+				window.location.href = 'https://socialcrawlytics.com/';
+				break;
+			case 'similarweb':
+				window.location.href = 'https://www.similarweb.com/zh/';
+				break;
+			case 'moneyrobot':
+				window.location.href = 'https://www.moneyrobot.com/';
+				break;
+			case 'seolyzer':
+				window.location.href = 'https://seolyzer.io/';
+				break;
+			case 'seoptimer':
+				window.location.href = 'https://www.seoptimer.com/';
+				break;
+			case 'facebooklibrary':
+				window.location.href = 'https://www.facebook.com/ads/library/';
+				break;
+			case 'facebookadsmanager':
+				window.location.href = 'https://www.facebook.com/adsmanager/';
+				break;
+			case 'businessfacebook':
+				window.location.href = 'https://business.facebook.com/';
+				break;
+			case 'facebookaudienceinsights':
+				window.location.href = 'https://www.facebook.com/ads/audience-insights/';
+				break;
+			case 'developersfacebook':
+				window.location.href = 'https://developers.facebook.com/';
+				break;
+			case 'facebooktoolsdebug':
+				window.location.href = 'https://developers.facebook.com/tools/debug/';
+				break;
+			case 'facebookadscustomer':
+				window.location.href = 'https://business.facebook.com/ads/customer_feedback';
+				break;
+			case 'facebookdocsmetapixel':
+				window.location.href = 'https://developers.facebook.com/docs/meta-pixel/';
+				break;
+			case 'exceedlmsstudentcatalog':
+				window.location.href = 'https://fbp.exceedlms.com/student/catalog';
+				break;
+			case 'facebookbusinesslearn':
+				window.location.href = 'https://www.facebook.com/business/learn';
+				break;
+			case 'piliapp':
+				window.location.href = 'https://cn.piliapp.com/facebook-symbols/';
+				break;
+			case 'lookupid':
+				window.location.href = 'https://lookup-id.com/facebooksearch.html';
+				break;
+			case 'agorapulse':
+				window.location.href = 'https://www.agorapulse.com/free-social-media-marketing-tools/';
+				break;
+			case 'facebookshops':
+				window.location.href = 'https://www.facebook.com/business/shops';
+				break;
+			case 'audiencebuilder':
+				window.location.href = 'https://www.audiencebuilder.io/';
+				break;
+			case 'audtools':
+				window.location.href = 'https://www.audtools.com/';
+				break;
+			case 'revealbot':
+				window.location.href = 'https://revealbot.com/';
+				break;
+			case 'enginescout':
+				window.location.href = 'https://enginescout.com.au/facebook-interest-targeting-tool/';
+				break;
+			case 'funnel':
+				window.location.href = 'https://funnel.io/qwaya';
+				break;
+			case 'adobefacebook':
+				window.location.href = 'https://www.adobe.com/tw/express/create/advertisement/facebook';
+				break;
+			case 'facebook2026068680760273':
+				window.location.href = 'https://www.facebook.com/help/contact/2026068680760273';
+				break;
+			case 'facebook273898596750902':
+				window.location.href = 'https://www.facebook.com/help/contact/273898596750902';
+				break;
+			case 'facebook260749603972907':
+				window.location.href = 'https://www.facebook.com/help/contact/logout?id=260749603972907';
+				break;
+			case 'facebooksupport':
+				window.location.href = 'https://www.facebook.com/support';
+				break;
+			case 'facebook571927962827151':
+				window.location.href = 'https://www.facebook.com/help/contact/571927962827151';
+				break;
+			case 'facebook1582364792025146':
+				window.location.href = 'https://www.facebook.com/help/contact/1582364792025146';
+				break;
+			case 'facebook186912391909649':
+				window.location.href = 'https://www.facebook.com/help/contact/186912391909649';
+				break;
+			case 'facebook179049432194862':
+				window.location.href = 'https://www.facebook.com/help/contact/?id=179049432194862';
+				break;
+			case 'messengerfacebookadsupport':
+				window.location.href = 'https://www.messenger.com/login.php?next=https%3A%2F%2Fwww.messenger.com%2Ft%2Ffacebookadsupport';
+				break;
+			case 'browserleaks':
+				window.location.href = 'https://browserleaks.com/ip';
+				break;
+			case '2ipio':
+				window.location.href = 'https://2ip.io/';
+				break;
+			case 'yalala':
+				window.location.href = 'https://www.yalala.com/';
+				break;
+			case 'bgphe':
+				window.location.href = 'https://bgp.he.net/';
+				break;
+			case 'ipipnet':
+				window.location.href = 'https://www.ipip.net/';
+				break;
+			case 'whatismyiplookup':
+				window.location.href = 'https://whatismyiplookup.com/';
+				break;
+			case 'whoer':
+				window.location.href = 'https://whoer.net/';
+				break;
+			case 'ip2location':
+				window.location.href = 'https://www.ip2location.com/';
+				break;
+			case 'ipinfo':
+				window.location.href = 'https://ipinfo.io/';
+				break;
+			case 'scamalytics':
+				window.location.href = 'https://scamalytics.com/ip';
+				break;
+			case 'itdog':
+				window.location.href = 'https://www.itdog.cn/ping/';
+				break;
+			case 'onlinedownloader':
+				window.location.href = 'https://www.online-downloader.com/';
+				break;
+			case 'thezerohack':
+				window.location.href = 'https://thezerohack.com/instagram-video-downloader#articlescroll';
+				break;
+			case 'y2mate':
+				window.location.href = 'https://www.y2mate.com/';
+				break;
+			case 'getfvid':
+				window.location.href = 'https://www.getfvid.com/zh/twitter';
+				break;
+			case 'expertsphp':
+				window.location.href = 'https://www.expertsphp.com/pinterest-video-downloader.html';
+				break;
+			case 'iiilab':
+				window.location.href = 'https://bilibili.iiilab.com/';
+				break;
+			case 'clipconverter':
+				window.location.href = 'https://www.clipconverter.cc/3/';
+				break;
+			case 'tikmate':
+				window.location.href = 'https://tikmate.online/';
+				break;
+			case 'musicaldown':
+				window.location.href = 'https://musicaldown.com/en';
+				break;
+			case 'ssstik':
+				window.location.href = 'https://ssstik.io/en';
+				break;
+			case 'videofk':
+				window.location.href = 'https://www.videofk.com/zh-CN4306';
+				break;
+			case 'popmars':
+				window.location.href = 'https://ins.popmars.com/';
+				break;
+			case 'suwenune':
+				window.location.href = 'https://mvd.suwenune.net/';
+				break;
+			case 'tikvideo':
+				window.location.href = 'https://tikvideo.app/zh-cn';
+				break;
+			case 'downtikto':
+				window.location.href = 'https://downtik.to/zh/';
+				break;
+			case 'dlpanda':
+				window.location.href = 'https://dlpanda.com/zh-CN';
+				break;
+			case 'Shadowrocket':
+				window.location.href = 'Shadowrocket';
+				break;
+			case 'v2rayN':
+				window.location.href = 'v2rayN';
+				break;
+			case 'btccom':
+				window.location.href = 'https://explorer.btc.com/zh-CN';
+				break;
+			case 'etherscan':
+				window.location.href = 'https://cn.etherscan.com/';
+				break;
+			case 'tronscan':
+				window.location.href = 'https://tronscan.org/';
+				break;
+			case 'blockchair':
+				window.location.href = 'https://blockchair.com/zh/';
+				break;
+			case 'binance':
+				window.location.href = 'https://accounts.binance.com/zh-CN/register?ref=458968641&utm_medium=web_share_copy';
+				break;
+			case 'okxcom':
+				window.location.href = 'https://okx.com/join/8522687';
+				break;
+			case 'gateio':
+				window.location.href = 'https://www.gate.io/signup/VQNBVlsL?ref_type=103';
+				break;
+			case 'huobi':
+				window.location.href = 'https://www.huobi.com/zh-cn/';
+				break;
+			case 'bitfinex':
+				window.location.href = 'https://www.bitfinex.com/';
+				break;
+			case 'mexccom':
+				window.location.href = 'https://www.mexc.com/zh-CN';
+				break;
+			case 'bybit':
+				window.location.href = 'https://www.bybit.com/';
+				break;
+			case 'smartcontractsecurityalliance':
+				window.location.href = 'https://www.smartcontractsecurityalliance.com/';
+				break;
+			case 'chainsecurity':
+				window.location.href = 'https://chainsecurity.com/';
+				break;
+			case 'quillaudits':
+				window.location.href = 'https://www.quillaudits.com/smart-contract-audit';
+				break;
+			case 'smartdec':
+				window.location.href = 'https://smartdec.net/';
+				break;
+			case 'cryptorank':
+				window.location.href = 'https://cryptorank.io/';
+				break;
+			case 'cryptobriefing':
+				window.location.href = 'https://cryptobriefing.com/';
+				break;
+			case 'themerkle':
+				window.location.href = 'https://themerkle.com/';
+				break;
+			case 'cryptoslate':
+				window.location.href = 'https://cryptoslate.com/';
+				break;
+			case 'nulltx':
+				window.location.href = 'https://nulltx.com/';
+				break;
+			case 'todayonchain':
+				window.location.href = 'https://www.todayonchain.com/';
+				break;
+			case 'blockonomi':
+				window.location.href = 'https://blockonomi.com/';
+				break;
+			case 'messariio':
+				window.location.href = 'https://messari.io/';
+				break;
+			case 'coincenter':
+				window.location.href = 'https://www.coincenter.org/';
+				break;
+			case 'bitcoinwarrior':
+				window.location.href = 'https://bitcoinwarrior.net/';
+				break;
+			case '99bitcoins':
+				window.location.href = 'https://99bitcoins.com/';
+				break;
+			case 'bitcoinist':
+				window.location.href = 'https://bitcoinist.com/';
+				break;
+			case 'jinse':
+				window.location.href = 'https://www.jinse.cn/';
+				break;
+			case 'finacerun':
+				window.location.href = 'https://www.finacerun.com/';
+				break;
+			case 'chaincatcher':
+				window.location.href = 'https://www.chaincatcher.com/';
+				break;
+			case 'adspower':
+				window.location.href = 'https://share.adspower.net/nKE3FJBPB44XEhI';
+				break;
+			case 'vmlogin':
+				window.location.href = 'https://www.vmlogin.cc/';
+				break;
+			case 'bitbrowser':
+				window.location.href = 'https://www.bitbrowser.cn/';
+				break;
+			case 'superbrowser':
+				window.location.href = 'https://www.superbrowser.com/';
+				break;
+			case 'zennolab':
+				window.location.href = 'https://zennolab.com/';
+				break;
+			case 'antbrowser':
+				window.location.href = 'https://antbrowser.pro/ru/';
+				break;
+			case 'tenebris':
+				window.location.href = 'https://sphere.tenebris.cc/';
+				break;
+			case 'multilogin':
+				window.location.href = 'https://multilogin.com/';
+				break;
+			case 'kuajingvs':
+				window.location.href = 'https://www.kuajingvs.com/';
+				break;
+			case 'kameleo':
+				window.location.href = 'https://kameleo.io/';
+				break;
+			case 'gologin':
+				window.location.href = 'https://gologin.com/cn/';
+				break;
+			case 'linkenfaqiu':
+				window.location.href = 'https://www.linkenfaqiu.com/';
+				break;
+			case 'hubstudio':
+				window.location.href = 'http://suo.im/7O6Mh';
+				break;
+			case 'incogniton':
+				window.location.href = 'https://incogniton.com/zh-hans/';
+				break;
+			case 'kuaitux':
+				window.location.href = 'https://www.kuaitux.com/web/register.html?promotionCode=304700';
+				break;
+			case 'ehouniao':
+				window.location.href = 'https://www.mbbrowser.com/aff/?code=TVBKSER3';
+				break;
+			case 'dolphin':
+				window.location.href = 'https://panel.dolphin.ru.com/?c=auth&m=register&a=43790';
+				break;
+			case 'firebrowser':
+				window.location.href = 'https://www.firebrowser.cn/?code=DVTHWISI4W';
+				break;
+			case 'kookeey':
+				window.location.href = 'https://kookeey.com/register.html?aff=79855191';
+				break;
+			case 'rolaip':
+				window.location.href = 'https://www.rola-ip.co/';
+				break;
+			case 'skyip':
+				window.location.href = 'https://sky-ip.net/';
+				break;
+			case 'ip123':
+				window.location.href = 'https://ip123.us/';
+				break;
+			case 'socks5io':
+				window.location.href = 'https://my.socks5.io#FCLBXUJW';
+				break;
+			case 'ipfoxy':
+				window.location.href = 'https://www.ipfoxy.com/cn';
+				break;
+			case 'ipidea':
+				window.location.href = 'https://share.ipidea.net/SKewJiNKrb1bA3r';
+				break;
+			case 'doveip':
+				window.location.href = 'http://www.doveip.com/';
+				break;
+			case 'oxylabs':
+				window.location.href = 'https://oxylabs.cn/';
+				break;
+			case 'smartdaili':
+				window.location.href = 'https://smartdaili.cn/';
+				break;
+			case 'yilus5':
+				window.location.href = 'https://www.yilus5.com/';
+				break;
+			case 'pyproxy':
+				window.location.href = 'https://www.pyproxy.com/';
+				break;
+			case 'iproxyonline':
+				window.location.href = 'https://iproxy.online/';
+				break;
+			case 'lunaproxy':
+				window.location.href = 'https://www.lunaproxy.com/hk/register/?Invitation_code=J9JFX1TS';
+				break;
+			case 'proxy4free':
+				window.location.href = 'https://www.proxy4free.com/zh-cn';
+				break;
+			case 'stormproxies':
+				window.location.href = 'https://www.stormproxies.cn/';
+				break;
+			case 'smartproxycn':
+				window.location.href = 'https://www.smartproxy.cn/';
+				break;
+			case 'roxlabs':
+				window.location.href = 'https://www.roxlabs.cn/';
+				break;
+			case 'jifengdaili':
+				window.location.href = 'http://www.jifengdaili.com/';
+				break;
+			case 'abcproxy':
+				window.location.href = 'https://www.abcproxy.com/zh/';
+				break;
+			case 'ipipgo':
+				window.location.href = 'https://www.ipipgo.com/zh-CN/';
+				break;
+			case '922proxy':
+				window.location.href = 'https://www.922proxy.com/zh-tw/';
+				break;
+			case 'piaproxy':
+				window.location.href = 'https://www.piaproxy.com/';
+				break;
+			case 'ip2world':
+				window.location.href = 'https://www.ip2world.com?ref=GF7JY9WWQG';
+				break;
+			case 'proxy302':
+				window.location.href = 'https://proxy302.saaslink.net/NERW9G';
+				break;
+			case '360proxy':
+				window.location.href = 'https://www.360proxy.com/zh-tw/';
+				break;
+			case 'haiwaiip':
+				window.location.href = 'https://www.haiwaiip.com/';
+				break;
+			case 'xkdaili':
+				window.location.href = 'http://www.xkdaili.com/';
+				break;
+			case 'tyhttp':
+				window.location.href = 'https://www.tyhttp.com/';
+				break;
+			case 'jghttp':
+				window.location.href = 'https://www.jghttp.com/';
+				break;
+			case 'httppycn':
+				window.location.href = 'https://http.py.cn/';
+				break;
+			case 'juliangip':
+				window.location.href = 'https://www.juliangip.com/';
+				break;
+			case 'zmhttp':
+				window.location.href = 'https://www.zmhttp.com/';
+				break;
+			case 'tuziipcom':
+				window.location.href = 'https://www.tuziip.com/';
+				break;
+			case 'qgnet':
+				window.location.href = 'https://www.qg.net/';
+				break;
+			case 'kuaidaili':
+				window.location.href = 'https://www.kuaidaili.com/';
+				break;
+			case 'globalcash':
+				window.location.href = 'https://www.globalcash.hk/';
+				break;
+			case 'payoneerxyk':
+				window.location.href = 'https://www.payoneer.com/zh-hant/';
+				break;
+			case 'vmcardio':
+				window.location.href = 'https://vmcardio.com/';
+				break;
+			case 'tapngo':
+				window.location.href = 'https://www.tapngo.com.hk/chi/index.html';
+				break;
+			case 'bentoforbusiness':
+				window.location.href = 'https://bentoforbusiness.com/';
+				break;
+			case 'billcom':
+				window.location.href = 'https://www.bill.com/product/spend-and-expense';
+				break;
+			case 'amzkeys':
+				window.location.href = 'https://amzkeys.com/';
+				break;
+			case 'stripe':
+				window.location.href = 'https://stripe.com/zh-cn-hk';
+				break;
+			case 'revolut':
+				window.location.href = 'https://www.revolut.com/';
+				break;
+			case 'privacy':
+				window.location.href = 'https://privacy.com/';
+				break;
+			case 'virtualcards':
+				window.location.href = 'https://www.virtualcards.us/';
+				break;
+			case 'namsogen':
+				window.location.href = 'https://namso-gen.com/';
+				break;
+			case 'xunika':
+				window.location.href = 'http://www.xunika.com.cn/';
+				break;
+			case 'xunicard':
+				window.location.href = 'https://www.xunicard.com/';
+				break;
+			case 'racknerd':
+				window.location.href = 'https://my.racknerd.com/aff.php?aff=8357';
+				break;
+			case 'cloudcone':
+				window.location.href = 'https://app.cloudcone.com/?ref=9986';
+				break;
+			case 'bandwagonhost':
+				window.location.href = 'https://bandwagonhost.com/';
+				break;
+			case 'hostwinds':
+				window.location.href = 'https://www.hostwinds.com/';
+				break;
+			case 'vultr':
+				window.location.href = 'https://www.vultr.com/';
+				break;
+			case 'amazon':
+				window.location.href = 'https://aws.amazon.com/cn/';
+				break;
+			case 'lightnode':
+				window.location.href = 'https://www.lightnode.com/?inviteCode=YD1LJ2&promoteWay=LINK';
+				break;
+			case 'dmitio':
+				window.location.href = 'https://www.dmit.io/aff.php?aff=6850';
+				break;
+			case 'gigsgigscloud':
+				window.location.href = 'https://clientarea.gigsgigscloud.com/?affid=3839';
+				break;
+			case 'hawkhost':
+				window.location.href = 'https://my.hawkhost.com/aff.php?aff=17064';
+				break;
+			case 'hostkvm':
+				window.location.href = 'https://my.hostkvm.com/aff.php?aff=1657';
+				break;
+			case 'qlvps':
+				window.location.href = 'https://ql-vps.com/';
+				break;
+			case 'v2rayNG':
+				window.location.href = 'v2rayNG';
+				break;
+			case 'Clash':
+				window.location.href = 'Clash';
+				break;
+			case 'Clash':
+				window.location.href = 'Clash';
+				break;
+			case 'Disclaimers':
+				window.location.href = 'Disclaimers';
+				break;
+			case 'contact':
+				window.location.href = 'contact';
+				break;
+			case 'fastcom':
+				window.location.href = 'https://fast.com/';
+				break;
+			case 'speedtest':
+				window.location.href = 'https://librespeed.speedtestcustom.com/';
+				break;
+			case 'speedtestnet':
+				window.location.href = 'https://www.speedtest.net/zh-Hans';
+				break;
+			case 'uutool':
+				window.location.href = 'https://uutool.cn/';
+				break;
+			case 'cliim':
+				window.location.href = 'https://cli.im/';
+				break;
+			case 'shopify':
+				window.location.href = 'https://www.shopify.cn/';
+				break;
+			case 'uupoop':
+				window.location.href = 'https://www.uupoop.com/';
+				break;
+			case 'shijian':
+				window.location.href = 'http://www.shijian.cc/jieri/';
+				break;
+			case '24timemap':
+				window.location.href = 'http://www.24timemap.com/';
+				break;
+			case 'nowmsg':
+				window.location.href = 'https://www.nowmsg.com/';
+				break;
+			case 'bitly':
+				window.location.href = 'https://bitly.com/';
+				break;
+			case 'xecom':
+				window.location.href = 'https://www.xe.com/zh-CN/';
+				break;
+			case 'pdfpai':
+				window.location.href = 'https://www.pdfpai.com/';
+				break;
+			case '17track':
+				window.location.href = 'https://www.17track.net/zh-cn';
+				break;
+			default:
+				console.log('Invalid parameter.');
+		}
+	</script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b42a18dbb1cf6eb40e7810aa-|49" defer></script></body>
+</html>
